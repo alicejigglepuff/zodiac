@@ -1,0 +1,41 @@
+
+body {
+	text-align: center;
+	font-family: 'Acme', sans-serif;
+}
+
+h1{
+	font-size: 30px;
+}
+
+.formgroup{
+	display: block;
+}
+
+.picture {
+	background-image: url("../img/bg.jpg");
+	height: 300px;
+}
+
+button.btn{
+	background-color: #39f7d5;
+	border-color: #afbedf;
+	border-width: 2px;
+	color: #afbedf;
+}
+button.btn:hover{
+	background-color: #fba55a;
+	color: white;
+}
+
+.answer{
+	text-align: center;
+}
+form{
+	padding-top: 60px;
+}
+
+#yourHoroscope{
+	font-size: 18px;
+	margin-top: 20px;
+}
